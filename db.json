@@ -23,7 +23,7 @@
 					"stock": 200,
 					"is_available": true,
 					"details": "Inverter Aircon"
-				},
+				}
 			],
 			"tags": [{
 					"id": "1",
@@ -94,7 +94,7 @@
 				"avg_rating": 3,
 				"stock": 0,
 				"is_available": false,
-				"description": "Trending Shoes",
+				"description": "Trending Shoes"
 			}],
 			"tags": [{
 				"id": "1",
@@ -121,7 +121,7 @@
 				"avg_rating": 3,
 				"stock": 1000,
 				"is_available": true,
-				"description": "Mobile Phone",
+				"description": "Mobile Phone"
 			}],
 			"tags": [],
 			"ratings": [{
