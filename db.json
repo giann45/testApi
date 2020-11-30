@@ -79,31 +79,135 @@
       ],
     },
     {
-      "id": 2,
-      "Code": "2",
-      "Name": "Shoes",
-      "Thumbnail": "https://m.media-amazon.com/images/I/41Leu3gBUFL.jpg"
+      "id": "2",
+      "code": "2",
+      "seller_id": "1",
+      "is_Available": true,
+      "name": "Shoes",
+      "thumbnail": "Thumbnail": "https://m.media-amazon.com/images/I/41Leu3gBUFL.jpg",
+      "category": 1,
+      "description": "Trending Shoes",
+      "variations": [
+        {
+          "id": "3",
+          "product_id": "2",
+          "name": "Black",
+          "stock": 100,
+          "price": 399.99
+        },
+       ],
+      "tags": [
+        {
+          "id": "1",
+          "name": "Featured",
+          "percentage": 0,
+          "count": 1,
+          "from": "2012-04-23T18:25:43.511Z",
+          "to": "2021-04-23T18:25:43.511Z",
+          "time_limited": true,
+        },
+      ],
+      "ratings": [],
     },
     {
-      "id": 3,
-      "Code": "3",
-      "Name": "Phone",
-      "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/34/Nokia_3310_3G_%2820180116%29.jpg"
-    }
+      "id": "3",
+      "code": "3",
+      "seller_id": "1",
+      "is_Available": true,
+      "name": "Phone",
+      "thumbnail": "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/34/Nokia_3310_3G_%2820180116%29.jpg",
+      "category": 1,
+      "description": "Mobile Phone",
+      "variations": [
+        {
+          "id": "4",
+          "product_id": "3",
+          "name": "Nokia",
+          "stock": 2,
+          "price": 299.99
+        },
+       ],
+      "tags": [],
+      "ratings": [
+        {
+          "id": "4",
+          "product_id": "3",
+          "variation_id": "1",
+          "name": "Carrey M.",
+          "rating": 5,
+          "count": 1,
+          "decription": "Nice item",
+          "date": "2012-04-23T18:25:43.511Z",
+        },
+        {
+          "id": "5",
+          "product_id": "3",
+          "variation_id": "1",
+          "name": "Peter P.",
+          "rating": 5,
+          "count": 1,
+          "decription": "Nice item",
+          "date": "2012-04-23T18:25:43.511Z",
+        },
+      ],
+    },
   ],
-  "comments": [
+  "rating": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": "1",
+      "product_id": "1",
+      "variation_id": "1",
+      "name": "Adam M.",
+      "rating": 5,
+      "count": 1,
+      "decription": "Nice item",
+      "date": "2012-04-23T18:25:43.511Z",
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
+      "id": "2",
+      "product_id": "1",
+      "variation_id": "1",
+      "name": "Sarah F.",
+      "rating": 4,
+      "count": 1,
+      "decription": "Nice item",
+      "date": "2012-04-23T18:25:43.511Z",
+    },
+    {
+      "id": "3",
+      "product_id": "1",
+      "variation_id": "1",
+      "name": "Micheal E.",
+      "rating": 1,
+      "count": 1,
+      "decription": "Broken",
+      "date": "2012-04-23T18:25:43.511Z",
+    },
+    {
+      "id": "4",
+      "product_id": "3",
+      "variation_id": "1",
+      "name": "Carrey M.",
+      "rating": 5,
+      "count": 1,
+      "decription": "Nice item",
+      "date": "2012-04-23T18:25:43.511Z",
+    },
+    {
+      "id": "5",
+      "product_id": "3",
+      "variation_id": "1",
+      "name": "Peter P.",
+      "rating": 5,
+      "count": 1,
+      "decription": "Nice item",
+      "date": "2012-04-23T18:25:43.511Z",
+    },
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "tag": [
+  ],
+  "user": [
+  ],
+  "order": [
+  ]
 }
