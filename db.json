@@ -22,7 +22,7 @@
           "product_id": "1",
           "name": "Black",
           "stock": 0,
-          "price": 8999.99
+          "price": 8999.99,
         },
        ],
       "tags": [
@@ -49,31 +49,31 @@
         {
           "id": "1",
           "product_id": "1",
-          "variation_id": "1"
+          "variation_id": "1",
           "name": "Adam M.",
           "rating": 5,
           "count": 1,
-          "decription": "Nice item"
+          "decription": "Nice item",
           "date": "2012-04-23T18:25:43.511Z",
         },
         {
           "id": "2",
           "product_id": "1",
-          "variation_id": "1"
+          "variation_id": "1",
           "name": "Sarah F.",
           "rating": 4,
           "count": 1,
-          "decription": "Nice item"
+          "decription": "Nice item",
           "date": "2012-04-23T18:25:43.511Z",
         },
         {
           "id": "3",
           "product_id": "1",
-          "variation_id": "1"
+          "variation_id": "1",
           "name": "Micheal E.",
           "rating": 1,
           "count": 1,
-          "decription": "Broken"
+          "decription": "Broken",
           "date": "2012-04-23T18:25:43.511Z",
         },
       ],
