@@ -1,10 +1,82 @@
 {
-  "products": [
+  "product": [
     {
-      "id": 1,
-      "Code": "1",
-      "Name": "Aircon",
-      "Thumbnail": "https://d2j6dbq0eux0bg.cloudfront.net/images/7628677/940863961.jpg"
+      "id": "1",
+      "code": "1",
+      "seller_id": "1",
+      "is_Available": true,
+      "name": "Aircon",
+      "thumbnail": "https://d2j6dbq0eux0bg.cloudfront.net/images/7628677/940863961.jpg",
+      "category": 1,
+      "description": "Inverter Type Aircon",
+      "variations": [
+        {
+          "id": "1",
+          "product_id": "1",
+          "name": "Red",
+          "stock": 100,
+          "price": 9999.99
+        },
+        {
+          "id": "2",
+          "product_id": "1",
+          "name": "Black",
+          "stock": 0,
+          "price": 8999.99
+        },
+       ],
+      "tags": [
+        {
+          "id": "1",
+          "name": "Featured",
+          "percentage": 0,
+          "count": 1,
+          "from": 2012-04-23T18:25:43.511Z,
+          "to": 2021-04-23T18:25:43.511Z,
+          "time_limited": true,
+        },
+        {
+          "id": "2",
+          "name": "25%",
+          "percentage": .25,
+          "count": 1,
+          "from": 2012-04-23T18:25:43.511Z,
+          "to": 2021-04-23T18:25:43.511Z,
+          "time_limited": true,
+        },
+      ],
+      "ratings": [
+        {
+          "id": "1",
+          "product_id": "1",
+          "variation_id": "1"
+          "name": "Adam M.",
+          "rating": 5,
+          "count": 1,
+          "decription": "Nice item"
+          "date": 2012-04-23T18:25:43.511Z,
+        },
+        {
+          "id": "2",
+          "product_id": "1",
+          "variation_id": "1"
+          "name": "Sarah F.",
+          "rating": 4,
+          "count": 1,
+          "decription": "Nice item"
+          "date": 2012-04-23T18:25:43.511Z,
+        },
+        {
+          "id": "3",
+          "product_id": "1",
+          "variation_id": "1"
+          "name": "Micheal E.",
+          "rating": 1,
+          "count": 1,
+          "decription": "Broken"
+          "date": 2012-04-23T18:25:43.511Z,
+        },
+      ],
     },
     {
       "id": 2,
