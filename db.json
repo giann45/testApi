@@ -28,6 +28,7 @@
       "tags": [
         {
           "id": "1",
+          "seller_id": null,
           "name": "Featured",
           "percentage": 0,
           "count": 1,
@@ -37,6 +38,7 @@
         },
         {
           "id": "2",
+          "seller_id": "1",
           "name": "25%",
           "percentage": 0.25,
           "count": 1,
@@ -48,6 +50,7 @@
       "ratings": [
         {
           "id": "1",
+          "seller_id": "1",
           "product_id": "1",
           "variation_id": "1",
           "name": "Adam M.",
@@ -58,6 +61,7 @@
         },
         {
           "id": "2",
+          "seller_id": "1",
           "product_id": "1",
           "variation_id": "1",
           "name": "Sarah F.",
@@ -68,6 +72,7 @@
         },
         {
           "id": "3",
+          "seller_id": "1",
           "product_id": "1",
           "variation_id": "1",
           "name": "Micheal E.",
@@ -99,6 +104,7 @@
       "tags": [
         {
           "id": "1",
+          "seller_id": null,
           "name": "Featured",
           "percentage": 0,
           "count": 1,
@@ -131,6 +137,7 @@
       "ratings": [
         {
           "id": "4",
+          "seller_id": "1",
           "product_id": "3",
           "variation_id": "1",
           "name": "Carrey M.",
@@ -141,6 +148,7 @@
         },
         {
           "id": "5",
+          "seller_id": "1",
           "product_id": "3",
           "variation_id": "1",
           "name": "Peter P.",
@@ -155,6 +163,7 @@
   "rating": [
     {
       "id": "1",
+      "seller_id": "1",
       "product_id": "1",
       "variation_id": "1",
       "name": "Adam M.",
@@ -165,6 +174,7 @@
     },
     {
       "id": "2",
+      "seller_id": "1",
       "product_id": "1",
       "variation_id": "1",
       "name": "Sarah F.",
@@ -175,6 +185,7 @@
     },
     {
       "id": "3",
+      "seller_id": "1",
       "product_id": "1",
       "variation_id": "1",
       "name": "Micheal E.",
@@ -185,6 +196,7 @@
     },
     {
       "id": "4",
+      "seller_id": "1",
       "product_id": "3",
       "variation_id": "1",
       "name": "Carrey M.",
@@ -195,6 +207,7 @@
     },
     {
       "id": "5",
+      "seller_id": "1",
       "product_id": "3",
       "variation_id": "1",
       "name": "Peter P.",
@@ -205,8 +218,72 @@
     },
   ],
   "tag": [
+    {
+      "id": "2",
+      "seller_id": "1",
+      "name": "25%",
+      "percentage": 0.25,
+      "count": 1,
+      "from": "2012-04-23T18:25:43.511Z",
+      "to": "2021-04-23T18:25:43.511Z",
+      "time_limited": true,
+    },
   ],
   "user": [
+    {
+      "id": "1",
+      "firstname": "Cherry",
+      "lastname": "Sevillino",
+      "username": "Cherry221",
+      "user_type": 2,
+      "image": "https://images.unsplash.com/photo-1532074205216-d0e1f4b87368?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=681&q=80",
+      "phone": "+639123456789",
+      "postal_code": 8000,
+      "province": 1,
+      "city": 1,
+      "barangay_id": 1,
+      "location": "21st St., Flower Avenue",
+      "landmark": "Corner Street, Yellow Gate",
+      "country": "ph",
+      "is_disabled": false,
+      "created_at": "2021-04-23T18:25:43.511Z",
+    },
+    {
+      "id": "1",
+      "firstname": "Mark",
+      "lastname": "Crawford",
+      "username": "MC1221",
+      "user_type": 3,
+      "image": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=634&q=80",
+      "phone": "+639123123123",
+      "postal_code": 8000,
+      "province": 1,
+      "city": 1,
+      "barangay_id": 2,
+      "location": "Box Street, Corner Village",
+      "landmark": "Edge of the road house
+      "country": "ph",
+      "is_disabled": false,
+      "created_at": "2021-04-23T18:25:43.511Z",
+    },
+    {
+      "id": "1",
+      "firstname": "Maxwell
+      "lastname": "Bryant"
+      "username": "Daddy"
+      "user_type": 3,
+      "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=634&q=80",
+      "phone": "+639223332232",
+      "postal_code": 8000,
+      "province": 1,
+      "city": 1,
+      "barangay_id": 3,
+      "location": "#21, Ice Street, Cold Island",
+      "landmark": "Only house",
+      "country": "ph",
+      "is_disabled": false,
+      "created_at": "2021-04-23T18:25:43.511Z",
+    },
   ],
   "order": [
   ]
