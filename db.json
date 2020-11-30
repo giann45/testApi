@@ -1,34 +1,36 @@
-"product_list": [
-  {
-    "name": "test",
-    "price": 0
-  },
-  {
-    "name": "test",
-    "price": 0
-  },
-  {
-    "name": "test",
-    "price": 0
-  },
-  {
-    "name": "test",
-    "price": 0
-  },
-  {
-    "name": "test",
-    "price": 0
-  },
-  {
-    "name": "test",
-    "price": 0
-  },
-  {
-    "name": "test",
-    "price": 0
-  },
-  {
-    "name": "test",
-    "price": 0
-  },
- ]
+{
+  "product_list": [
+    {
+      "name": "test",
+      "price": 0
+    },
+    {
+      "name": "test",
+      "price": 0
+    },
+    {
+      "name": "test",
+      "price": 0
+    },
+    {
+      "name": "test",
+      "price": 0
+    },
+    {
+      "name": "test",
+      "price": 0
+    },
+    {
+      "name": "test",
+      "price": 0
+    },
+    {
+      "name": "test",
+      "price": 0
+    },
+    {
+      "name": "test",
+      "price": 0
+    },
+   ]
+}
