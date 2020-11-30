@@ -1,26 +1,34 @@
-product_list: [
+"product_list": [
   {
-    name: "test",
-    price: 0
+    "name": "test",
+    "price": 0
   },
   {
-    name: "test",
-    price: 0
+    "name": "test",
+    "price": 0
   },
   {
-    name: "test",
-    price: 0
+    "name": "test",
+    "price": 0
   },
   {
-    name: "test",
-    price: 0
+    "name": "test",
+    "price": 0
   },
   {
-    name: "test",
-    price: 0
+    "name": "test",
+    "price": 0
   },
   {
-    name: "test",
-    price: 0
+    "name": "test",
+    "price": 0
+  },
+  {
+    "name": "test",
+    "price": 0
+  },
+  {
+    "name": "test",
+    "price": 0
   },
  ]
