@@ -6,7 +6,7 @@
       "seller_id": "1",
       "is_Available": true,
       "name": "Aircon",
-      "thumbnail": "https://d2j6dbq0eux0bg.cloudfront.net/images/7628677/940863961.jpg",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/7628677/940863961.jpg",
       "category": 1,
       "description": "Inverter Type Aircon",
       "variations": [
@@ -89,7 +89,7 @@
       "seller_id": "1",
       "is_Available": true,
       "name": "Shoes",
-      "thumbnail": "Thumbnail": "https://m.media-amazon.com/images/I/41Leu3gBUFL.jpg",
+      "image": "https://m.media-amazon.com/images/I/41Leu3gBUFL.jpg",
       "category": 1,
       "description": "Trending Shoes",
       "variations": [
@@ -121,7 +121,7 @@
       "seller_id": "1",
       "is_Available": true,
       "name": "Phone",
-      "thumbnail": "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/34/Nokia_3310_3G_%2820180116%29.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Nokia_3310_3G_%2820180116%29.jpg",
       "category": 1,
       "description": "Mobile Phone",
       "variations": [
